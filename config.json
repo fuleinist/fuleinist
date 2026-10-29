@@ -1,0 +1,32 @@
+{
+  "login": "fuleinist",
+  "name": "chris chen",
+  "handle": "@fuleinist",
+  "tagline": "full stack web developer",
+  "location": "sydney, australia",
+  "website": "https://fuleinist.github.io",
+  "socials": [
+    { "label": "GITHUB", "href": "https://github.com/fuleinist" },
+    { "label": "WEBSITE", "href": "https://fuleinist.github.io" }
+  ],
+  "whoami": [
+    "full-stack engineer building tooling for ai-assisted development.",
+    "i ship small, sharp utilities: agent skills, context compression,",
+    "prompt versioning — and the glue that keeps them honest.",
+    "typescript / python / rust / go — picked per problem, not per fashion."
+  ],
+  "ecosystem": {
+    "left": [
+      ["languages", "typescript · javascript · python · rust · go"],
+      ["ai tooling", "agent skills · context compression · prompt versioning"],
+      ["web", "php · sqlite · alpine.js · tailwind"]
+    ],
+    "right": [
+      ["infra", "github actions · docker · ollama"],
+      ["currently", "skill graphs · session diffs · token pruning"],
+      ["elsewhere", "fuleinist.github.io"]
+    ]
+  },
+  "projectsNote": "selected work · most-starred originals",
+  "featured": ["skill-graph", "ai-session-diff", "context-prune", "video-to-skill"]
+}
