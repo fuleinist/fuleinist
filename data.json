@@ -1,9 +1,9 @@
 {
   "login": "fuleinist",
-  "fetchedAt": "2026-11-06T10:02:56.194Z",
+  "fetchedAt": "2026-11-07T09:23:38.354Z",
   "publicRepos": 362,
   "ownRepos": 155,
-  "totalStars": 39,
+  "totalStars": 38,
   "totalForks": 5,
   "followers": 29,
   "languages": [
@@ -58,19 +58,14 @@
       "name": "video-to-skill",
       "description": "Turn any YouTube video or video file into a structured Claude Code skill — using YouTube transcripts, Whisper, or VLM frame analysis.",
       "language": "Python",
-      "stars": 2,
+      "stars": 1,
       "forks": 1
     }
   ],
   "contrib": {
-    "total": 1975,
+    "total": 1977,
     "weeks": [
       [
-        {
-          "date": "2025-11-06",
-          "count": 0,
-          "weekday": 4
-        },
         {
           "date": "2025-11-07",
           "count": 0,
@@ -1997,8 +1992,13 @@
         },
         {
           "date": "2026-11-06",
-          "count": 0,
+          "count": 1,
           "weekday": 5
+        },
+        {
+          "date": "2026-11-07",
+          "count": 1,
+          "weekday": 6
         }
       ]
     ]
